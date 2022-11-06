@@ -1,0 +1,17 @@
+{
+	"format_version": 2,
+	"header": {
+        "name": "Universe 9 - Money System Behaviors",
+        "description": "This module will provide Universe 9 with a currency system.",
+		"uuid": "f7cc409c-a793-41ee-a808-baef98116856",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 210]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "bb0b5832-dba4-49e6-83ad-c92fa25b186e",
+			"version": [1, 0, 0]
+		}
+	]
+}

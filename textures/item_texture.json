@@ -1,0 +1,27 @@
+{
+	"resource_pack_name": "Universe 9 - Money System Behaviors",
+	"texture_name": "atlas.items",
+	"texture_data": {
+        "money.wallet": {
+            "textures": "textures/items/Wallet Item Icon"
+        },
+        "money.governor_job": {
+            "textures": "textures/items/job"
+        },
+        "money.construction_job": {
+            "textures": "textures/items/job"
+        },
+        "money.technology_job": {
+            "textures": "textures/items/job"
+        },
+        "money.planner_job": {
+            "textures": "textures/items/job"
+        },
+        "money.farmer_job": {
+            "textures": "textures/items/job"
+        },
+        "money.interior_job": {
+            "textures": "textures/items/job"
+        }
+    }
+}
